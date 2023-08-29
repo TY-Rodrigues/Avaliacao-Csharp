@@ -1,0 +1,17 @@
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.csproj.AssemblyReference.cache
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.GeneratedMSBuildEditorConfig.editorconfig
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.AssemblyInfoInputs.cache
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.AssemblyInfo.cs
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.csproj.CoreCompileInputs.cache
+C:\banco grig\bin\Debug\net7.0-windows\banco grig.exe
+C:\banco grig\bin\Debug\net7.0-windows\banco grig.deps.json
+C:\banco grig\bin\Debug\net7.0-windows\banco grig.runtimeconfig.json
+C:\banco grig\bin\Debug\net7.0-windows\banco grig.dll
+C:\banco grig\bin\Debug\net7.0-windows\banco grig.pdb
+C:\banco grig\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.csproj.CopyComplete
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.dll
+C:\banco grig\obj\Debug\net7.0-windows\refint\banco grig.dll
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.pdb
+C:\banco grig\obj\Debug\net7.0-windows\banco grig.genruntimeconfig.cache
+C:\banco grig\obj\Debug\net7.0-windows\ref\banco grig.dll
